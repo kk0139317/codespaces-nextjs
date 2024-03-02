@@ -1,6 +1,4 @@
-import { useCallback, useEffect, useState } from 'react'
-import Button from '../components/Button'
-import ClickCount from '../components/ClickCount'
+import React from 'react'
 import styles from '../styles/home.module.css'
 
 function Home() {

@@ -1,0 +1,20 @@
+{
+    "museums": [
+      {
+        "id": "louvre",
+        "name": "The Louvre",
+        "description": "The world's largest art museum.",
+        "image": "https://example.com/louvre.jpg",
+        "exhibits": [
+          {
+            "id": "mona-lisa",
+            "name": "Mona Lisa",
+            "description": "A portrait painting by Leonardo da Vinci.",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg",
+            "3dModel": "https://example.com/mona_lisa_3d.glb"
+          }
+        ]
+      }
+    ]
+  }
+  
